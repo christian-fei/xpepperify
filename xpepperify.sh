@@ -13,6 +13,7 @@ function progress {
 
 if [ ! -f ./profile.png ]; then
 	echo "required files are missing\n"
+	echo "less README.md for more info\n"
 	exit 1
 fi
 

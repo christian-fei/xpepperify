@@ -15,3 +15,9 @@
 4. `sh xpepperify.sh`
 
 5. profit
+
+
+###### credits
+
+[Ivo](https://plus.google.com/+ivoputzer/) for xpeppers-overlay.png
+
