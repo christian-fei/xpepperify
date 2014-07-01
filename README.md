@@ -19,5 +19,5 @@
 
 ###### credits
 
-[Ivo](https://plus.google.com/+ivoputzer/) for xpeppers-overlay.png
+[Ivo](https://plus.google.com/+ivoputzer/) for xpeppers-overlay.png and the whole idea behind
 
