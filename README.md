@@ -8,7 +8,7 @@
 
 2. grab your google plus profile picture
 
-3. make the script executable with `chmod +x xpepperify.sh`
+3. make the script executable with `chmod +x xpepperify`
 
 4. watermark your image. You have the following options:
 
