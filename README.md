@@ -4,6 +4,12 @@
 
 ![watermarked profile picture](example.png)
 
+# Dependencies
+
+- [imagemagick](http://www.imagemagick.org/)
+
+- job @ xpeppers
+
 # Steps
 
 1. clone this repo: `git clone --depth 1 https://github.com/christian-fei/xpepperify.git`
