@@ -2,6 +2,8 @@
 
 [xpepperify](http://xpeppers.com) your avatar!
 
+![watermarked profile picture](example.png)
+
 # Steps
 
 1. clone this repo: `git clone --depth 1 https://github.com/christian-fei/xpepperify.git`
