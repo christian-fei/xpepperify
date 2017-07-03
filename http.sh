@@ -5,7 +5,7 @@ echo "HTTP/1.0 500 Problem with format
 
 <html>
 <body>
-<h1>xPepperify your avatar</h1>
+<h1>XPepperify your avatar</h1>
 <p>
 Usage for the <br>
 <ul><li><strong>red overlay</strong><img width=\"30\" src=\"/https://static.artfire.com/uploads/product/7/367/82367/6082367/6082367/large/troll_face_-_6_x_5_25_decal_18d24f31.jpg\"><a href="/https://static.artfire.com/uploads/product/7/367/82367/6082367/6082367/large/troll_face_-_6_x_5_25_decal_18d24f31.jpg">http://this-website-address.com/http://url-of-the-avatar.png</a>
